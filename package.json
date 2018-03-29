@@ -1,0 +1,23 @@
+{
+  "name": "Ghatre-JSON-Appropriate",
+  "version": "1.0.0",
+  "description": "Transform Multiline Text Content to Single Line JSON Appropriate",
+  "main": "Runnable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghatre-Foundation/Ghatre-JSON-Appropriate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghatre-Foundation/Ghatre-JSON-Appropriate/issues"
+  },
+  "homepage": "https://github.com/Ghatre-Foundation/Ghatre-JSON-Appropriate#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2"
+  }
+}
